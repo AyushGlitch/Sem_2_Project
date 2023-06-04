@@ -10,5 +10,5 @@
 
 1. Bloggo (Terminal Based Application) CodeBase :
 2. Bloggo (Web Application) CodeBase : 
-3. Bloggo Web Application : Please click the link to visit **[Bloggo : Made Blogging Simple]**(https://bloggo-s0cq.onrender.com/)
+3. Bloggo Web Application : Please click the link to visit **[Bloggo : Made Blogging Simple](https://bloggo-s0cq.onrender.com/)**
 4. Project Report, PPT, Poster, Video : 
