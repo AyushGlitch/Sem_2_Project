@@ -8,7 +8,7 @@
 
 ### Please visit the following links for corresponding matarials:
 
-- Bloggo (Terminal Based Application) CodeBase :
+- Bloggo (Terminal Based Application) CodeBase :https://github.com/armedbrawlwer/ProjectWork
 - Bloggo (Web Application) CodeBase : https://github.com/armedbrawlwer/bloggo
 - Bloggo Web Application : Please click the link to visit **[Bloggo: Blogging made simple.](https://bloggo-s0cq.onrender.com/)**
 - Project Report, PPT, Poster, Video : 
