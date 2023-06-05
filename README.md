@@ -8,7 +8,7 @@
 - Roll No.: 221210026, Name: Ayush Aryan Singh
 
 
-### Please visit the following links for corresponding matarials:
+### Please visit the following links for corresponding materials:
 
 - Bloggo (Terminal Based Application) CodeBase : **[Github Repo](https://github.com/armedbrawlwer/ProjectWork)**
  
